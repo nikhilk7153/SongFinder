@@ -1,4 +1,4 @@
-#Song Finder
+# Song Finder
 
 The purpose of the following week was to build additional features for a user's profile. Specifically, this included building the actual
 profile page for a user which would allow a user to upload a picture of themselves and have it saved, display the bookmarks of the user's profile, and also allow it to be edited. This week also included creating the storage of the list of reviews for a user which would consist
