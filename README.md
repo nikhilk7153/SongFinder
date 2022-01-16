@@ -1,0 +1,7 @@
+                                                        Week2
+
+The purpose of the following week was to build additional features for a user's profile. Specifically, this included building the actual
+profile page for a user which would allow a user to upload a picture of themselves and have it saved, display the bookmarks of the user's profile, and also allow it to be edited. This week also included creating the storage of the list of reviews for a user which would consist
+of a song title, the rating out of 5.0, and a text for their review. Should a user enter invalid input such as a rating that is not between 0.0 and 5.0, or the song title is empty, an alert will be shown telling the user to enter in valid information. A user would be able to edit, delete, search, and insert for reviews that are associated with their account. The final feature that was implemented for this week is the ability to allow a user to search for other users based on their user name or by a user's bookmark preferences. A user will be able to see the entirity of another user's profile page and a user will also be able to click on a follow button to follow another user. The other features of being able to get a song recommendation and bookmark a user's list of songs are still there as well. To run this application, 
+on one terminal, cd into the backend folder simply run 'python3.9 app.py', and in another terminal, go to the userInterface folder and run
+expo start --android which will run the android application on an emulator. 
